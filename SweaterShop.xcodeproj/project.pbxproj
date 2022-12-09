@@ -17,6 +17,7 @@
 		BD83762E2943DAEC00E03C2D /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD83762D2943DAEC00E03C2D /* CartView.swift */; };
 		BD8376312943DBFA00E03C2D /* CartManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8376302943DBFA00E03C2D /* CartManager.swift */; };
 		BD8376332943DE9C00E03C2D /* ProductRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8376322943DE9C00E03C2D /* ProductRow.swift */; };
+		BD8376352943E2BA00E03C2D /* PaymentButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8376342943E2BA00E03C2D /* PaymentButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		BD83762D2943DAEC00E03C2D /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
 		BD8376302943DBFA00E03C2D /* CartManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartManager.swift; sourceTree = "<group>"; };
 		BD8376322943DE9C00E03C2D /* ProductRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductRow.swift; sourceTree = "<group>"; };
+		BD8376342943E2BA00E03C2D /* PaymentButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				BD8376282943D16D00E03C2D /* ProductCard.swift */,
 				BD83762B2943D75E00E03C2D /* CartButton.swift */,
 				BD8376322943DE9C00E03C2D /* ProductRow.swift */,
+				BD8376342943E2BA00E03C2D /* PaymentButton.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD8376352943E2BA00E03C2D /* PaymentButton.swift in Sources */,
 				BD83762E2943DAEC00E03C2D /* CartView.swift in Sources */,
 				BD8376182943CC1100E03C2D /* ContentView.swift in Sources */,
 				BD8376312943DBFA00E03C2D /* CartManager.swift in Sources */,
